@@ -89,7 +89,7 @@ public class Main {
 
                 break;
             default:
-                System.out.println("Nie prawidłowy wybór ");
+                System.out.println("Nieprawidłowy wybór ");
         }
     }
 }
